@@ -1,3 +1,3 @@
 # code-demo
-this is my first repository <br>
+This is my first repository <br>
 Author - Shreyas More
